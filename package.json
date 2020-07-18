@@ -2,7 +2,7 @@
   "name": "pokemon-api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.to/VanVDC/countries-flags",
+  "homepage": "https://VanVDC.github.to/countries-flags",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
