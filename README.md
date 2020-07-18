@@ -1,6 +1,6 @@
 # Countries Flags Search API
 
-A simple countries flags search site that will return the flag with information on the country. This project allow me to practice React Hooks. 
+A simple countries flags search site that will return the flag with information on the country. This project allows me to practice React Hooks. 
 ### `Build`
 ```
 React-using useState and useEffect hooks
