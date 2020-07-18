@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/flags-api/static/css/main.c4bdf02a.chunk.css",
-    "main.js": "/flags-api/static/js/main.d065274b.chunk.js",
-    "main.js.map": "/flags-api/static/js/main.d065274b.chunk.js.map",
-    "runtime-main.js": "/flags-api/static/js/runtime-main.3880521b.js",
-    "runtime-main.js.map": "/flags-api/static/js/runtime-main.3880521b.js.map",
-    "static/js/2.972aa198.chunk.js": "/flags-api/static/js/2.972aa198.chunk.js",
-    "static/js/2.972aa198.chunk.js.map": "/flags-api/static/js/2.972aa198.chunk.js.map",
-    "index.html": "/flags-api/index.html",
-    "precache-manifest.971b3845f8d9ada35801a84bcabbe6e8.js": "/flags-api/precache-manifest.971b3845f8d9ada35801a84bcabbe6e8.js",
-    "service-worker.js": "/flags-api/service-worker.js",
-    "static/css/main.c4bdf02a.chunk.css.map": "/flags-api/static/css/main.c4bdf02a.chunk.css.map",
-    "static/js/2.972aa198.chunk.js.LICENSE.txt": "/flags-api/static/js/2.972aa198.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/flags-api/static/media/bg.1be2d3a0.jpg",
-    "static/media/logo.png": "/flags-api/static/media/logo.b127119e.png",
-    "static/media/spinner.gif": "/flags-api/static/media/spinner.235b9b3e.gif"
+    "main.css": "/VanVDC/countries-flags/static/css/main.ffbd6842.chunk.css",
+    "main.js": "/VanVDC/countries-flags/static/js/main.d065274b.chunk.js",
+    "main.js.map": "/VanVDC/countries-flags/static/js/main.d065274b.chunk.js.map",
+    "runtime-main.js": "/VanVDC/countries-flags/static/js/runtime-main.0fb008be.js",
+    "runtime-main.js.map": "/VanVDC/countries-flags/static/js/runtime-main.0fb008be.js.map",
+    "static/js/2.972aa198.chunk.js": "/VanVDC/countries-flags/static/js/2.972aa198.chunk.js",
+    "static/js/2.972aa198.chunk.js.map": "/VanVDC/countries-flags/static/js/2.972aa198.chunk.js.map",
+    "index.html": "/VanVDC/countries-flags/index.html",
+    "precache-manifest.bb0e4efca3cb4d552f058f5ed2ead68c.js": "/VanVDC/countries-flags/precache-manifest.bb0e4efca3cb4d552f058f5ed2ead68c.js",
+    "service-worker.js": "/VanVDC/countries-flags/service-worker.js",
+    "static/css/main.ffbd6842.chunk.css.map": "/VanVDC/countries-flags/static/css/main.ffbd6842.chunk.css.map",
+    "static/js/2.972aa198.chunk.js.LICENSE.txt": "/VanVDC/countries-flags/static/js/2.972aa198.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/VanVDC/countries-flags/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/VanVDC/countries-flags/static/media/logo.b127119e.png",
+    "static/media/spinner.gif": "/VanVDC/countries-flags/static/media/spinner.235b9b3e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.3880521b.js",
+    "static/js/runtime-main.0fb008be.js",
     "static/js/2.972aa198.chunk.js",
-    "static/css/main.c4bdf02a.chunk.css",
+    "static/css/main.ffbd6842.chunk.css",
     "static/js/main.d065274b.chunk.js"
   ]
 }
